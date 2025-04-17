@@ -1,6 +1,7 @@
 # 👋 Hey, I’m Ralph.
 
 I’m a scrappy builder and steady learner — currently diving deep into **Godot + C#**, low-level game systems, and math-based visualizations.
+![banner](https://github.com/user-attachments/assets/b89ada90-8f02-4296-89d8-0d6df0f0df9b)
 
 > *“I move fast to explore, then go deep to refine.”*
 
