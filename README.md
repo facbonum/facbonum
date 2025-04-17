@@ -9,7 +9,7 @@ I’m a scrappy builder and steady learner — currently diving deep into **Godo
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/facbonum/paint-app">
+  <a href="https://github.com/facbonum/paint">
     <img src="https://img.shields.io/badge/Paint_App-WIP-blueviolet?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Paint App WIP Badge" />
   </a>
   <a href="https://github.com/facbonum/platformerhelloworld">
