@@ -25,7 +25,7 @@ I’m a scrappy builder and steady learner — currently diving deep into **Godo
 ### 🔧 Projects I’m Exploring
 
 - 🎮 **Godot Platformer** – A Mario Bros–style prototype with patrolling enemies, screen wrap, and custom mechanics using `CharacterBody3D`
-- 🖌️ **Pixel Paint App** – Basic drawing app made in Godot (Procreate vibes, NES palette)
+- 🖌️ **Paint App** – Basic drawing app made in Pygame, and in other languages in the future (NES/SMS palettes)
 - 📐 **Math Playground** – Visual experiments in vector math, planes, and calculus
 - 💾 **Atari/NES Programming** – Studying 6502 architecture with a long-term goal of building for real hardware
 
