@@ -1,57 +1,59 @@
-# 👋 Hey, I’m Ralph.
+# 👋 Hi, I’m Ralph
 
-I’m a scrappy builder and steady learner — currently diving deep into **Godot + C#**, low-level game systems, and math-based visualizations.
-
-> *“I move fast to explore, then go deep to refine.”*
-
----
-
-### 🔧 Projects I’m Exploring
-
-- 🎮 **Godot Platformer** – A Mario Bros–style prototype with patrolling enemies, screen wrap, and custom mechanics using `CharacterBody3D`
-- 📐 **Math Playground** – Experiments with vector, plane, and calculus visualizations (targeting graphics + low-level insight)
-- 💾 **Atari/NES Programming** – Studying 6502 architecture with a long-term goal of making something rad on real hardware
-
----
-
-### 🔍 What I’m Into
-
-- Fast prototyping → focused deep work
-- Learning by building (and rebuilding)
-- Systems thinking, creative tools, visual storytelling
-- Staying humble, teachable, and anti-hype
+I’m a scrappy, teachable, hands-on dev who learns by building. I move fast when prototyping and go deep when something clicks. Right now, I’m diving into low-level systems, pixel art, and game engines — but I’ve always loved tinkering and improving things of any shape or size.
 
 ---
 
 ### 🛠️ Tech I Use (or Tinker With)
 
 `Godot` · `C#` · `GDScript` · `Unity (past)` · `Git` · `Figma`  
-Creative Tools: `Photoshop` · `Illustrator` · `Procreate (iOS)`  
-Web: `HTML/CSS`
+**Creative Tools:** `Photoshop` · `Illustrator` · `Procreate (iOS)`  
+**Web:** `HTML` · `CSS`
 
 ---
 
 ### 🔧 Actively Learning
 
-🕹️ **Low-Level & Retro Systems**  
+#### 🕹️ Low-Level & Retro Systems
 - `6502 ASM` – Atari VCS, NES  
 - `Z80 ASM` – Sega Master System, Game Gear  
 - `65816 ASM` – SNES  
-- `68000 ASM` – Genesis, Sega CD, 32X  
+- `68000 ASM` – Sega Genesis, Sega CD, 32X  
 - `HuC6280 ASM` – PC Engine, PC-FX  
-- `VB` – Virtual Boy  
-- `SH-4 ASM` – Dreamcast
+- `V810 ASM` – Virtual Boy  
+- `SH-4 ASM` – Sega Dreamcast
 
-📐 **Math & Visualizations**  
+#### 📐 Math & Visualizations
 - `Linear Algebra` – for transformations, geometry, and rendering  
 - `Calculus` – motion, curves, systems modeling
 
 ---
 
-### 📬 Let’s Connect
+### 🌐 Full-Stack Skills (2025 Focus List)
 
-- 🧠 Currently open to opportunities with thoughtful, grounded teams
+#### 🔹 Front-End
+- `React` · `Next.js` · `Tailwind CSS` · `TypeScript`
+
+#### 🔹 Back-End
+- `Node.js` · `Express` · `FastAPI` · `Go` · `Rust` · `tRPC`
+
+#### 🔹 Databases
+- `PostgreSQL` · `SQLite` · `Redis` · `MongoDB`
+
+#### 🔹 DevOps / Tooling
+- `Docker` · `GitHub Actions` · `Vercel` · `Netlify` · `Supabase`
 
 ---
 
-> “The best work happens when you’re solving real problems, with real people, over time.”
+### 🎮 Current Experiments
+
+- Building a 2D platformer in **Godot + C#**
+- Implementing classic NES-style enemy AI and screen wrap mechanics  
+- Studying 6502/Z80 assembly for real hardware development  
+- Exploring calculus and vector math to power up future visual projects
+
+---
+
+> I stay humble, iterate fast, and avoid drama. No interest in hype-driven tech or zero-to-unicorn pipelines. If it’s fun to build and hard to master, I’m in.
+
+Let’s connect ✌️
