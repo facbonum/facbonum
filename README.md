@@ -1,4 +1,4 @@
-# 👋 Hey, I’m [Your Name]
+# 👋 Hey, I’m Ralph.
 
 I’m a scrappy builder and steady learner — currently diving deep into **Godot + C#**, low-level game systems, and math-based visualizations.
 
