@@ -42,16 +42,16 @@ I’m a scrappy builder and steady learner — currently diving deep into **Godo
         <strong>Platformer Hello World</strong>
       </a>
       <br />
-      Mario-style platformer in Godot 4.4 with C#, screen wrap + enemy AI.
+      Classic arcade-style platformer in Godot 4.4 with C#, screen wrap + enemy AI.
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/facbonum/paint-app">
+      <a href="https://github.com/facbonum/paint">
         <img src="https://github.com/user-attachments/assets/7728b626-e5fe-4114-b8a3-e0579506c849" alt="Paint App" style="border-radius:12px;" width="100%" />
         <br />
-        <strong>Pixel Paint App</strong>
+        <strong>Paint!</strong>
       </a>
       <br />
-      Simple pixel art tool built with Godot and NES-inspired aesthetic.
+      Simple pixel art tool built with Pygame and NES-inspired aesthetic.
     </td>
   </tr>
 </table>
@@ -99,5 +99,6 @@ Web: `HTML/CSS`
 - Always up for learning from those who’ve built great things
 
 ---
+![bottom_banner](https://github.com/user-attachments/assets/5088fdc6-4a1e-4464-949b-2f30e3b101fe)
 
 > “The best work happens when you’re solving real problems, with real people, over time.”
