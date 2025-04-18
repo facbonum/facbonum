@@ -12,15 +12,18 @@ I’m a scrappy builder and steady learner — currently diving deep into **Godo
   <a href="https://github.com/facbonum/paint">
     <img src="https://img.shields.io/badge/Paint!-blueviolet?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Paint App WIP Badge" />
   </a>
+  <a href="https://github.com/facbonum/volumesofsolids">
+  <img src="https://img.shields.io/badge/Volumes_of_Solids-Math_Playground_for_Game_Physics-00c853?style=for-the-badge&logo=python&logoColor=white&labelColor=1a237e" alt="Volumes of Solids Badge" />
+  </a>
   <a href="https://github.com/facbonum/platformerhelloworld">
     <img src="https://img.shields.io/badge/Platformer-Godot/C%23-brightgreen?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Platformer Badge" />
+  </a>
+  <a href="https://github.com/facbonum/soundcard">
+  <img src="https://img.shields.io/badge/Soundcard_Project-8--bit_audio_orchestration-ff6f00?style=for-the-badge&logo=soundcore&logoColor=white&labelColor=0d47a1" alt="Soundcard Project Badge" />
   </a>
   <a href="https://github.com/facbonum">
     <img src="https://img.shields.io/badge/Profile-facbonum-lightgrey?style=for-the-badge&logo=github" alt="GitHub Profile Badge" />
   </a>
-  <a href="https://github.com/facbonum/soundcard">
-  <img src="https://img.shields.io/badge/Soundcard_Project-8--bit_audio_orchestration-ff6f00?style=for-the-badge&logo=soundcore&logoColor=white&labelColor=0d47a1" alt="Soundcard Project Badge" />
-</a>
 
 </p>
 
