@@ -76,8 +76,8 @@ I’m a scrappy builder and steady learner — currently diving deep into **Godo
 
 ### 🛠️ Tech I Use (or Tinker With)
 
-`Godot` · `C#` · `GDScript` · `Unity (past)` · `Git` · `Python` · `Lua`  
-Creative Tools: `Blender` `Photoshop` · `Illustrator` · `Procreate (iOS)`
+`C` · `C++` · `SDL` · `Godot` · `GDScript` · `C#` · `Unity (past)` · `Git` · `Python` · `Lua`  
+Creative Tools: `Blender` · `Photoshop` · `Illustrator` · `Procreate (iOS)`
 Web: `HTML/CSS`
 
 ---
