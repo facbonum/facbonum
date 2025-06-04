@@ -1,7 +1,6 @@
-# 👋 Hey, I’m Ralph.
+# Welcome!
 
-I’m a scrappy builder and steady learner — currently diving deep into **Godot + C#**, low-level game systems, and math-based visualizations.  
-![banner](https://github.com/user-attachments/assets/b89ada90-8f02-4296-89d8-0d6df0f0df9b)
+This project is part of my ongoing exploration of full-stack development, low-level programming, emulator development, and creative tools. I’m building things from scratch—sometimes for nostalgia, sometimes for the challenge, always to learn. Expect rough edges, but lots of care behind the code.
 
 > *“I move fast to explore, then go deep to refine.”*
 
@@ -67,8 +66,8 @@ I’m a scrappy builder and steady learner — currently diving deep into **Godo
 
 ### 🔍 What I’m Into
 
-- Fast prototyping → focused deep work  
-- Learning by building (and rebuilding)  
+- Fast prototyping → focused deep work, rinse and repeat
+- Learning by building (and disassembling)  
 - Systems thinking, creative tools, visual storytelling  
 - Staying humble, teachable, and anti-hype  
 
@@ -76,7 +75,7 @@ I’m a scrappy builder and steady learner — currently diving deep into **Godo
 
 ### 🛠️ Tech I Use (or Tinker With)
 
-`C` · `C++` · `SDL` · `Godot` · `GDScript` · `C#` · `Unity (past)` · `Git` · `Python` · `Lua`  
+`C` · `C++` · `SDL` · `Godot` · `GDScript` · `C#` · `Git` · `Python` · `Lua` · `Elixir`
 Creative Tools: `Blender` · `Photoshop` · `Illustrator` · `Procreate (iOS)`
 Web: `HTML/CSS`
 
@@ -101,11 +100,11 @@ Web: `HTML/CSS`
 
 ### 📬 Let’s Connect
 
-- 🧠 Currently open to opportunities with thoughtful, grounded teams  
+- Open to opportunities where an exchange of good ideas results in breakthroughs, especially when learning from failure
 - Prefer work where I can explore, refine, and contribute long-term  
-- Always up for learning from those who’ve built great things
+- I learn by doing, but retention really picks up when teaching
 
 ---
 ![bottom_banner](https://github.com/user-attachments/assets/5088fdc6-4a1e-4464-949b-2f30e3b101fe)
 
-> “The best work happens when you’re solving real problems, with real people, over time.”
+> Kyrie, eleison. Christe, eleison.
