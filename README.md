@@ -107,4 +107,4 @@ Web: `HTML/CSS`
 ---
 ![bottom_banner](https://github.com/user-attachments/assets/5088fdc6-4a1e-4464-949b-2f30e3b101fe)
 
-> Kyrie, eleison. Christe, eleison.
+> Κύριε, ἐλέησον. Χριστέ, ἐλέησον.
